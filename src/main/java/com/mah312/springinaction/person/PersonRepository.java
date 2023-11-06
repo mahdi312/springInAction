@@ -1,4 +1,4 @@
-package com.mah312.springinaction.department;
+package com.mah312.springinaction.person;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;

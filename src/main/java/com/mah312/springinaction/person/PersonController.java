@@ -1,12 +1,13 @@
-package com.mah312.springinaction.department;
+package com.mah312.springinaction.person;
 
+import com.mah312.springinaction.controllers.BaseController;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
 @RestController
 @RequestMapping("/persons")
-public class PersonController {
+public class PersonController implements BaseController {
 
     private final PersonService personService;
 

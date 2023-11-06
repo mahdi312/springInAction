@@ -1,4 +1,4 @@
-package com.mah312.springinaction.department;
+package com.mah312.springinaction.person;
 
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.stereotype.Service;

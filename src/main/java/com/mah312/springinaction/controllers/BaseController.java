@@ -1,2 +1,4 @@
-package com.mah312.springinaction.controllers;public interface BaseController {
+package com.mah312.springinaction.controllers;
+
+public interface BaseController {
 }
